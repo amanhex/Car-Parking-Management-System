@@ -1,6 +1,6 @@
 # Car-Parking-Management-System
 This Project is created using C++ language <br />
-Download the whole folder to run the program ( this code uses file handling so it requires the files provided in this repo ) <br />
+Copy the content of the cpp file and run it in your IDE ( This code runs fine in my system so there should not be any problem encountered, if in any case an error is encountered please fix it ) <br />
 VSCode is recommended to run this code because there can be some header files which your system may not have. <br />
 This project uses file handling to store all the user entered data into the two database files <br />
 Database files : <br />
