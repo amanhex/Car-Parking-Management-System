@@ -413,7 +413,6 @@ int main()
         default:
             system("CLS");
             cout << "You Entered A Wrong Choice!" << endl;
-            ;
             break;
         }
     }
